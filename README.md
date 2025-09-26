@@ -6,7 +6,7 @@
 - Skills: Arduino, NodeMCU, Embedded C/C++, Sensors & Actuators, IoT fundamentals
 
 ## Files
-- `Hemanth_Resume.pdf` — Resume (latest)
+- `Hemanth_Kumar_Khatri_Resume.pdf` — Resume (latest)
 
 ## Projects (short)
 1. **Obstacle-Avoiding Robot** — Arduino, ultrasonic sensor, L298N motor driver.  
